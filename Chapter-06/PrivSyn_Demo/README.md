@@ -17,4 +17,5 @@ Generate the synthetic dataset using *PrivSyn_Demo.SynDataGeneration.generativeM
 
 **Step 3**
 Test the synthetic dataset on support vector machine (*libsvm.crossvalidation.training_and_testing_multithread.java*), linear regression (*Testing_LinearRegression.py*) and k-means (*Testing_KMEANS.py*). 
-Notice, before you run the testing on linear regression and k-means, you need to change the format of the synthetic dataset, please refer to(*PrivSyn_Demo.SynDataGeneration.LibSVMtoCSV.java*). If you would like to calculate the average result of SVM, using *libsvm.crossvalidation.getAVGResults.java*
+
+Notice: before you run the testing on linear regression and k-means, you need to change the format of the synthetic dataset, please refer to(*PrivSyn_Demo.SynDataGeneration.LibSVMtoCSV.java*). If you would like to calculate the average result of SVM, using *libsvm.crossvalidation.getAVGResults.java*
