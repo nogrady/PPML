@@ -19,8 +19,8 @@
 * Part 1
 	* Part 1 covers the basics of privacy-preserving machine learning and differential privacy. Chapter 1 discusses privacy considerations in machine learning with an emphasis on the dangers of private data being exposed. Chapter 2 introduces the core concepts of differential privacy along with some widely adopted differential privacy mechanisms that serve as building blocks in various privacy-preserving algorithms and applications. Chapter 3 covers the advanced design principles of differentially private machine learning algorithms and presents a case study.
 
-*Part 2
+* Part 2
 	* Part 2 looks at another level of differential privacy called local differential privacy and at generating synthetic data to ensure privacy. Chapter 4 introduces the core concepts and definitions of local differential privacy. Chapter 5 looks at the more advanced mechanisms of local differential privacy, focusing on various data types and real-world applications, and then presents another case study. Chapter 6 focuses on generating synthetic data for machine learning tasks.
 
-*Part 3
+* Part 3
 	* Part 3 covers the next-level core concepts required to build privacy-assured machine learning applications. Chapter 7 introduces the importance of privacy preservation in data mining applications, looking at privacy protection mechanisms widely used in data mining for processing and publishing data. Chapter 8 discusses widely used privacy models in data mining and their threats and vulnerabilities. Chapter 9 focuses on compressive privacy for machine learning, discussing its design and implementation. Finally, chapter 10 puts the concepts from all the previous chapters together to design a privacy-enhanced platform for protecting and sharing research data.
